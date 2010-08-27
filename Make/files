@@ -1,0 +1,6 @@
+incompleteGammaFunction/incompleteGammaFunction.C
+diagnostics/diagnostics.C
+newtonRaphson/newtonRaphson.C
+numericalIntegration/numericalIntegration.C
+
+LIB = $(FOAM_LIBBIN)/libCustomUtilities
